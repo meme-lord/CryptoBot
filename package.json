@@ -1,0 +1,16 @@
+{
+  "name": "cryptobot",
+  "version": "1.0.0",
+  "description": "Bot for getting live cryptocurrency market data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meme-lord",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.1.3",
+    "poloniex-unofficial": "^1.1.2",
+    "request": "^2.74.0"
+  }
+}
