@@ -2,6 +2,7 @@
 A cryptocurrency Discord chat bot
 
 ***This is no longer the current version of the bot, I've rewritten it***
+
 Made for the Crypto Trader's Room: https://discordapp.com/invite/2xUpcpB
 
 These are the commands this bot supports:
